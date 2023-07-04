@@ -46,6 +46,12 @@ h3 {
     border-radius: 5px;
     padding: 6px 18px;
     height: 45px;
+    transition: background-color 0.3s ease;
+}
+#sign:hover {
+    
+    background-color: white;
+    color: black;
 }
 #submit {
     background: black;
